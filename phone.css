@@ -1,0 +1,16 @@
+.calculator div input,
+.calculator div button{
+    width: 20vw;
+    height: 50px;
+    margin: 0;
+}
+
+.calculator{
+    padding: 5px;
+}
+.calculator .display{
+    width: 100%;
+}
+.container{
+    display: block;
+}
